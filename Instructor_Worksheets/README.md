@@ -9,4 +9,5 @@ Some predefined series are suggested for you first few times as an instructor fo
 
 <table>
 <tr><td>Exercise Name</td><td>Series Number</td><td>Collection</td></tr>
+<tr><td>My First Circuit</td><td>1</td>Beginner</td>
 </table>
